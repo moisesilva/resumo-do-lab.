@@ -1,2 +1,2 @@
-# resumo-do-lab.\
+# resumo-do-lab.
 funcionalidaes do azure
