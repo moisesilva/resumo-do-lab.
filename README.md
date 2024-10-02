@@ -1,3 +1,4 @@
 # resumo-do-lab.
-funcionalidaes do azure
-escala da sua aplicacao
+#funcionalidaes do azure
+#escala da sua aplicacao
+# iaas,paas,saass
